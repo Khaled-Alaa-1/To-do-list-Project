@@ -112,6 +112,11 @@ Clone this repository to your desired folder:
 - Twitter: [@Khaled86756991](https://twitter.com/Khaled86756991)
 - LinkedIn: [Khaled Alaa](https://www.linkedin.com/in/khaled-alaa-594bb9256/)
 
+👤 **Sergio Usma**
+- GitHub: [@sergio-usma](https://github.com/sergio-usma)
+- Twitter: [@VonUsma](https://twitter.com/vonusma)
+- LinkedIn: [Sergio Andres Usma](https://www.linkedin.com/in/sergiousma/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
