@@ -14,15 +14,11 @@ const add = () => {
 const remove = (index) => {
   const tasksArray = JSON.parse(localStorage.getItem('tasksArray')) || [];
 
-  if (index >= 0 && index < tasksArray.length) {
-    tasksArray.splice(index, 1);
-
-    for (let i = 1; i <= tasksArray.length; i += 1) {
-      tasksArray[i - 1].index = i;
-    }
-
-    localStorage.setItem('tasksArray', JSON.stringify(tasksArray));
+  tasksArray.splice(index, 1);
+  for (let i = 1; i <= tasksArray.length; i += 1) {
+    tasksArray[i - 1].index = i;
   }
+  localStorage.setItem('tasksArray', JSON.stringify(tasksArray));
 };
 
 const edit = (index) => {
