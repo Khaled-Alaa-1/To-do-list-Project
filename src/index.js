@@ -91,15 +91,6 @@ tasksContainer.addEventListener('click', (event) => {
   }
 });
 
-tasksContainer.addEventListener('click', (event) => {
-  const textInput = event.target.closest('.text-input');
-  if (textInput) {
-    const textInputs = tasksContainer.querySelectorAll('.text-input');
-    const index = Array.from(textInputs).indexOf(textInput);
-    edit(index);
-  }
-});
-
 tasksContainer.addEventListener('dragstart', (event) => {
   const taskDiv = event.target.closest('.task');
   taskDiv.classList.add('dragging');
