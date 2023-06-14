@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -48,7 +26,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [To Do list] <a name="list structure"></a>
 
->**ToDo List!** is my fourth project at Microverse, in this project I have created a basic list of tasks where the user can add a new task, mark as completed and delete all the completed tasks 
+**ToDo List!** is my fourth project at Microverse, in this project I have created a basic list of tasks where the user can add a new task, mark as completed and delete all the completed tasks 
 
 
 ## 🛠 Built With <a name="built-with">
@@ -96,10 +74,10 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 - clone the project using by running the following command :
-
-`git clone`
-`https://github.com/Khaled-Alaa-1/To-do-list-Project.git`
-
+```
+git clone
+https://github.com/Khaled-Alaa-1/To-do-list-Project.git
+```
 
 
 <!-- AUTHORS -->
