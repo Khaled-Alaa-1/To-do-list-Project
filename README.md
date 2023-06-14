@@ -12,9 +12,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -24,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To Do list] <a name="list structure"></a>
+# 📖 [To Do list] <a name="about-project"></a>
 
 **ToDo List!** is my fourth project at Microverse, in this project I have created a basic list of tasks where the user can add a new task, mark as completed and delete all the completed tasks 
 
@@ -77,6 +75,12 @@ Clone this repository to your desired folder:
 ```
 git clone
 https://github.com/Khaled-Alaa-1/To-do-list-Project.git
+```
+
+### Run tests
+
+To run tests, run the following command:```
+npm run test
 ```
 
 
