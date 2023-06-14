@@ -79,9 +79,11 @@ https://github.com/Khaled-Alaa-1/To-do-list-Project.git
 
 ### Run tests
 
-To run tests, run the following command:```
+To run tests, run the following command:
+```
 npm run test
 ```
+
 
 
 <!-- AUTHORS -->
