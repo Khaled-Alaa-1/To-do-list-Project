@@ -88,16 +88,6 @@ tasksContainer.addEventListener('click', (event) => {
     const deleteTaskIcons = tasksContainer.querySelectorAll('.delete-task-icon');
     const index = Array.from(deleteTaskIcons).indexOf(deleteTaskIcon);
     remove(index);
-    render();
-  }
-});
-
-tasksContainer.addEventListener('click', (event) => {
-  const textInput = event.target.closest('.text-input');
-  if (textInput) {
-    const textInputs = tasksContainer.querySelectorAll('.text-input');
-    const index = Array.from(textInputs).indexOf(textInput);
-    edit(index);
   }
 });
 

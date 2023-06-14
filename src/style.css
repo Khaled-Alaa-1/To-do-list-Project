@@ -15,7 +15,7 @@ hr {
 input {
   border: none;
   outline: none;
-  background-color: wheat;
+  background-color: #e3ca9a;
 }
 
 .delete-task-icon,
@@ -33,7 +33,7 @@ body {
 
 .main {
   margin-top: 20px;
-  background-color: wheat;
+  background-color: #e3ca9a;
   box-shadow: 10px 10px 10px 0 rgba(51, 47, 1, 0.3);
 }
 
